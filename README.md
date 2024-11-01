@@ -82,3 +82,7 @@ Sebagai upaya untuk menjaga stabilitas harga, pemberian diskon akan diberikan se
 **Alokasi Dana untuk Pengembangan Produk**
 
 Diperlukan alokasi anggaran khusus untuk pengembangan produk dan kegiatan pemasaran, terutama untuk produk dengan volume penjualan yang rendah seperti `Alchemy` dan `Big Ol Database`.
+
+# **Dashboard Tableau**
+
+https://public.tableau.com/app/profile/ega.adiwena/viz/Capstone2-EgaAdiwena/Dashboard?publish=yes
