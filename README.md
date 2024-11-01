@@ -1,3 +1,9 @@
+# **Capstone 2 Purwadhika**
+
+Sebagai bagian dari tugas akhir program Data Science Purwadhika, notebook ini disusun untuk mengimplementasikan keterampilan analisis data. Dalam proyek ini, saya bersimulasi sebagai analis data yang ditugaskan untuk menggali *insights* dari dataset yang disediakan, dengan tujuan menjawab pertanyaan-pertanyaan bisnis yang relevan.
+
+by : Ega Adiwena
+
 # **Amazon Web Services SaaS Sales**
 
 Amazon Web Services (AWS) adalah platform komputasi cloud yang menyediakan berbagai layanan, seperti penyimpanan database, daya komputasi, dan layanan pengiriman konten. AWS menawarkan lebih dari 200 layanan yang dapat diakses dari pusat data di seluruh dunia.
